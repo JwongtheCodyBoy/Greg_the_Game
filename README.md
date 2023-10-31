@@ -1,6 +1,6 @@
 # Greg the Game
 ## About this game
-An orignial game which mixes elements from FPS and parkour game. 
+An original game which mixes elements from FPS and parkour game. 
 Shoot the enemies to earn points which is displayed at the top of the player's screen and retrieve  the weapon the enemy was using. 
 Navigate your way through the map with some fast pace movements and Swing around with a grappling hook to get the high ground against your enemies
 and defeat them before they defeat you.<br>
