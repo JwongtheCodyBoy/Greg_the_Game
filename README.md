@@ -59,4 +59,4 @@ Player has gun, gun go bang, kill enimies get big score.
 
 # Credit
 - Jonathan Wong, a dumb college student looking for a job
-- [LinkedIn](https://www.linkedin.com/in/jonathan-wong-137a39249/)
+  - [LinkedIn](https://www.linkedin.com/in/jonathan-wong-137a39249/)
