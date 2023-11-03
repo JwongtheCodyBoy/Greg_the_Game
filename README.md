@@ -6,7 +6,7 @@ Navigate your way through the map with some fast pace movements and Swing around
 and defeat them before they defeat you.<br>
 
 ### Summary
-Player has gun, gun go bang, kill enimies get big score. <br>
+Player has gun, gun go bang, kill enemies get big score. <br>
 
 ## Controls
 ### Movement
@@ -15,8 +15,8 @@ Player has gun, gun go bang, kill enimies get big score. <br>
 **C**: to crouch (moving then pressing C will cause player to slide) <br>
 
 #### While Wallrunning
-**Shift**: hold shift while wallrunning to scale up the wall <br>
-**Ctrl**: hold ctril while wallrunning to scale down the wall <br>
+**Shift**: hold Shift while wallrunning to scale up the wall <br>
+**Ctrl**: hold Ctrl while wallrunning to scale down the wall <br>
 
 ### Mouse
 **Left Mouse**: Shoot Weapon <br>
